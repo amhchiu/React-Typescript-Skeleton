@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "./public/bundles/",
+        "module": "es6",
+        "moduleResolution": "node",
+        "target": "es6",
+        "preserveConstEnums": true,
+        "noImplicitAny": true,
+        "jsx": "react",
+        "removeComments": true
+    }, 
+    "exclude": [
+        "node_modules"
+    ]
+}
